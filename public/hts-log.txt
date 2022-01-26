@@ -1,0 +1,127 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 25 Jan 2022 23:28:40 at https://www.wellsfargo.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.wellsfargo.com/ -O1 "C:\My Web Sites\https___www.wellsfargo.com_" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+23:36:11	Warning: 	Moved Permanently for https://www.wellsfargo.com/about/
+23:36:11	Warning: 	File has moved from https://www.wellsfargo.com/about/ to /es/about/
+23:36:15	Warning: 	Moved Temporarily for https://www.wellsfargo.com/biz/
+23:36:15	Warning: 	File has moved from https://www.wellsfargo.com/biz/ to https://www.wellsfargo.com/es/biz/
+23:36:24	Warning: 	Moved Permanently for https://www.wellsfargo.com/help/online-banking/troubleshoot-faqs/
+23:36:24	Warning: 	File has moved from https://www.wellsfargo.com/help/online-banking/troubleshoot-faqs/ to /es/help/online-banking/troubleshoot-faqs/
+23:36:25	Warning: 	Moved Permanently for https://www.wellsfargo.com/help/online-banking/sign-on-faqs/?linkLoc=signon
+23:36:25	Warning: 	File has moved from https://www.wellsfargo.com/help/online-banking/sign-on-faqs/?linkLoc=signon to /es/help/online-banking/sign-on-faqs/?linkLoc=signon
+23:36:26	Warning: 	Moved Temporarily for https://www.wellsfargo.com/privacy-security/fraud/?linkLoc=signon
+23:36:26	Warning: 	File has moved from https://www.wellsfargo.com/privacy-security/fraud/?linkLoc=signon to https://www.wellsfargo.com/es/privacy-security/fraud/?linkLoc=signon
+23:36:27	Warning: 	Moved Permanently for https://www.wellsfargo.com/privacy-security/?linkLoc=signon
+23:36:27	Warning: 	File has moved from https://www.wellsfargo.com/privacy-security/?linkLoc=signon to /es/privacy-security/?linkLoc=signon
+23:36:28	Warning: 	Moved Temporarily for https://www.wellsfargo.com/checking/
+23:36:28	Warning: 	File has moved from https://www.wellsfargo.com/checking/ to https://www.wellsfargo.com/es/checking/
+23:36:29	Warning: 	Moved Permanently for https://www.wellsfargo.com/goals-banking-made-easy/why-wells-fargo/
+23:36:29	Warning: 	File has moved from https://www.wellsfargo.com/goals-banking-made-easy/why-wells-fargo/ to /es/goals-banking-made-easy/why-wells-fargo/
+23:36:30	Warning: 	Moved Permanently for https://www.wellsfargo.com/mortgage/apply/prequalification/?dm=DMIWEPURGO
+23:36:30	Warning: 	File has moved from https://www.wellsfargo.com/mortgage/apply/prequalification/?dm=DMIWEPURGO to https://mortgage.wellsfargo.com/affinity/mortgage-prequalification.page?suffix=psf1060&dm=DMIWEPURGO&ref=http://www.wellsfargo.com/
+23:36:32	Warning: 	Moved Permanently for https://www.wellsfargo.com/credit-cards/find-a-credit-card/
+23:36:32	Warning: 	File has moved from https://www.wellsfargo.com/credit-cards/find-a-credit-card/ to /es/credit-cards/find-a-credit-card/
+23:36:33	Warning: 	Moved Permanently for https://www.wellsfargo.com/online-banking/my-money-map/
+23:36:33	Warning: 	File has moved from https://www.wellsfargo.com/online-banking/my-money-map/ to /es/online-banking/my-money-map/
+23:36:35	Warning: 	Moved Temporarily for https://www.wellsfargo.com/checking/?linkLoc=fn
+23:36:35	Warning: 	File has moved from https://www.wellsfargo.com/checking/?linkLoc=fn to https://www.wellsfargo.com/es/checking/?linkLoc=fn
+23:36:36	Warning: 	Moved Temporarily for https://www.wellsfargo.com/savings-cds/?linkLoc=fn
+23:36:36	Warning: 	File has moved from https://www.wellsfargo.com/savings-cds/?linkLoc=fn to https://www.wellsfargo.com/es/savings-cds/?linkLoc=fn
+23:36:37	Warning: 	Moved Permanently for https://www.wellsfargo.com/debit-card/?linkLoc=fn
+23:36:37	Warning: 	File has moved from https://www.wellsfargo.com/debit-card/?linkLoc=fn to /es/debit-card/?linkLoc=fn
+23:36:39	Warning: 	Moved Permanently for https://www.wellsfargo.com/credit-cards/?linkLoc=fn
+23:36:39	Warning: 	File has moved from https://www.wellsfargo.com/credit-cards/?linkLoc=fn to /es/credit-cards/?linkLoc=fn
+23:36:40	Warning: 	Moved Temporarily for https://www.wellsfargo.com/foreign-exchange/?linkLoc=fn
+23:36:40	Warning: 	File has moved from https://www.wellsfargo.com/foreign-exchange/?linkLoc=fn to https://www.wellsfargo.com/es/foreign-exchange/?linkLoc=fn
+23:36:42	Warning: 	Moved Permanently for https://www.wellsfargo.com/international-remittances/?linkLoc=fn
+23:36:42	Warning: 	File has moved from https://www.wellsfargo.com/international-remittances/?linkLoc=fn to /es/international-remittances/?linkLoc=fn
+23:36:45	Warning: 	Moved Permanently for https://www.wellsfargo.com/online-banking/?linkLoc=fn
+23:36:45	Warning: 	File has moved from https://www.wellsfargo.com/online-banking/?linkLoc=fn to /es/online-banking/?linkLoc=fn
+23:36:47	Warning: 	Moved Permanently for https://www.wellsfargo.com/online-banking/transfer-pay/?linkLoc=fn
+23:36:47	Warning: 	File has moved from https://www.wellsfargo.com/online-banking/transfer-pay/?linkLoc=fn to /es/online-banking/transfer-pay/?linkLoc=fn
+23:36:50	Warning: 	Moved Temporarily for https://www.wellsfargo.com/mobile/?linkLoc=fn
+23:36:50	Warning: 	File has moved from https://www.wellsfargo.com/mobile/?linkLoc=fn to https://www.wellsfargo.com/es/mobile/?linkLoc=fn
+23:36:52	Warning: 	Moved Permanently for https://www.wellsfargo.com/online-banking/manage-accounts/control-tower/?linkLoc=fn
+23:36:52	Warning: 	File has moved from https://www.wellsfargo.com/online-banking/manage-accounts/control-tower/?linkLoc=fn to /es/online-banking/manage-accounts/control-tower/?linkLoc=fn
+23:37:01	Warning: 	Moved Permanently for https://www.wellsfargo.com/tax-center/?linkLoc=fn
+23:37:01	Warning: 	File has moved from https://www.wellsfargo.com/tax-center/?linkLoc=fn to /es/tax-center/?linkLoc=fn
+23:37:01	Warning: 	Moved Temporarily for https://www.wellsfargo.com/goals-banking-made-easy/index/?linkLoc=fn
+23:37:01	Warning: 	File has moved from https://www.wellsfargo.com/goals-banking-made-easy/index/?linkLoc=fn to https://www.wellsfargo.com/es/goals-banking-made-easy/index/?linkLoc=fn
+23:37:04	Warning: 	Moved Temporarily for https://www.wellsfargo.com/privacy-security/fraud/?linkLoc=fn
+23:37:04	Warning: 	File has moved from https://www.wellsfargo.com/privacy-security/fraud/?linkLoc=fn to https://www.wellsfargo.com/es/privacy-security/fraud/?linkLoc=fn
+23:37:09	Warning: 	Moved Permanently for https://www.wellsfargo.com/help/routing-number/?linkLoc=fn
+23:37:09	Warning: 	File has moved from https://www.wellsfargo.com/help/routing-number/?linkLoc=fn to /es/help/routing-number/?linkLoc=fn
+23:37:11	Warning: 	Moved Permanently for https://www.wellsfargo.com/financial-assistance/?linkLoc=fn
+23:37:11	Warning: 	File has moved from https://www.wellsfargo.com/financial-assistance/?linkLoc=fn to /es/financial-assistance/?linkLoc=fn
+23:37:13	Warning: 	Moved Permanently for https://www.wellsfargo.com/checking/compare-checking-accounts/?linkLoc=fn
+23:37:13	Warning: 	File has moved from https://www.wellsfargo.com/checking/compare-checking-accounts/?linkLoc=fn to /es/checking/compare-checking-accounts/?linkLoc=fn
+23:37:15	Warning: 	Moved Temporarily for https://www.wellsfargo.com/mortgage/?linkLoc=fn
+23:37:15	Warning: 	File has moved from https://www.wellsfargo.com/mortgage/?linkLoc=fn to https://www.wellsfargo.com/es/mortgage/?linkLoc=fn
+23:37:23	Warning: 	Moved Permanently for https://www.wellsfargo.com/goals-credit/?linkLoc=fn
+23:37:23	Warning: 	File has moved from https://www.wellsfargo.com/goals-credit/?linkLoc=fn to /es/goals-credit/?linkLoc=fn
+23:37:43	Warning: 	Link https://www.wellsfargo.com/investing/guidance/consultation/?linkLoc=fn not scanned (follow robots meta tag)
+23:38:05	Warning: 	Link https://www.wellsfargo.com/the-private-bank/connect/?linkLoc=fn not scanned (follow robots meta tag)
+23:38:27	Warning: 	Moved Permanently for https://www.wellsfargo.com/online-banking/transfers/zelle/?linkLoc=nba
+23:38:27	Warning: 	File has moved from https://www.wellsfargo.com/online-banking/transfers/zelle/?linkLoc=nba to /online-banking/zelle/index
+23:38:57	Warning: 	Moved Permanently for https://www.wellsfargo.com/student/?linkLoc=nba
+23:38:57	Warning: 	File has moved from https://www.wellsfargo.com/student/?linkLoc=nba to https://update.wf.com/efs/student-loans/
+23:39:28	Warning: 	Moved Permanently for https://www.wellsfargo.com/stories/
+23:39:28	Warning: 	File has moved from https://www.wellsfargo.com/stories/ to https://stories.wf.com/?cid=vty
+23:39:38	Warning: 	Link https://www.wellsfargo.com/privacy-security/privacy/online/ not scanned (follow robots meta tag)
+23:39:53	Warning: 	Link https://www.wellsfargo.com/exit/sipc/ not scanned (follow robots meta tag)
+23:40:32	Warning: 	Link https://www.wellsfargo.com/es/privacy-security/privacy/online not scanned (follow robots meta tag)
+23:40:47	Warning: 	Moved Permanently for https://www.wellsfargo.com/mortgage/locations/
+23:40:47	Warning: 	File has moved from https://www.wellsfargo.com/mortgage/locations/ to /locator/mortgage/consultant
+23:40:51	Warning: 	Moved Permanently for https://www.wellsfargo.com/credit-cards/
+23:40:51	Warning: 	File has moved from https://www.wellsfargo.com/credit-cards/ to https://creditcards.wellsfargo.com/
+23:40:51	Warning: 	Moved Permanently for https://www.wellsfargo.com/personal-credit/
+23:40:51	Warning: 	File has moved from https://www.wellsfargo.com/personal-credit/ to /personal-loans/
+23:41:22	Warning: 	Moved Permanently for https://www.wellsfargo.com/es/credit-cards/
+23:41:22	Warning: 	File has moved from https://www.wellsfargo.com/es/credit-cards/ to https://creditcards.wellsfargo.com/es/
+23:41:31	Warning: 	Moved Permanently for https://www.wellsfargo.com/es/credit-cards/?linkLoc=fn
+23:41:31	Warning: 	File has moved from https://www.wellsfargo.com/es/credit-cards/?linkLoc=fn to https://creditcards.wellsfargo.com/es/
+23:42:10	Warning: 	Moved Permanently for https://www.wellsfargo.com/es/online-banking/transfers/zelle/?linkLoc=nba
+23:42:10	Warning: 	File has moved from https://www.wellsfargo.com/es/online-banking/transfers/zelle/?linkLoc=nba to /online-banking/zelle/index
+23:42:45	Warning: 	Link https://www.wellsfargo.com/investing/guidance/consultation/ not scanned (follow robots meta tag)
+23:42:55	Warning: 	Link https://www.wellsfargo.com/exit/e?id=1151456222 not scanned (follow robots meta tag)
+23:42:55	Warning: 	Link https://www.wellsfargo.com/exit/e?id=2151456222 not scanned (follow robots meta tag)
+23:42:55	Warning: 	Link https://www.wellsfargo.com/exit/e?id=3151456222 not scanned (follow robots meta tag)
+23:43:15	Warning: 	Link https://www.wellsfargo.com/exit/e?id=4151456222 not scanned (follow robots meta tag)
+23:43:15	Warning: 	Link https://www.wellsfargo.com/exit/e?id=5151456222 not scanned (follow robots meta tag)
+23:43:15	Warning: 	Link https://www.wellsfargo.com/exit/e?id=6151456222 not scanned (follow robots meta tag)
+23:43:16	Warning: 	Link https://www.wellsfargo.com/exit/e?id=7151456222 not scanned (follow robots meta tag)
+23:44:10	Error: 	Exit requested by shell or user
+23:44:10	Warning: 	File not added due to mirror cancel: https://www.wellsfargo.com/es/exit/e?id=417578282
+23:44:10	Warning: 	File not added due to mirror cancel: https://www.wellsfargo.com/es/exit/e?id=417578282
+23:44:10	Warning: 	File not added due to mirror cancel: https://www.wellsfargo.com/es/exit/e?id=417578282
+23:44:10	Warning: 	File not added due to mirror cancel: https://www.wellsfargo.com/es/exit/e?id=417578282
+23:44:10	Warning: 	Moved Permanently for https://www.wellsfargo.com/es/credit-cards/find-a-credit-card/
+23:44:10	Warning: 	File has moved from https://www.wellsfargo.com/es/credit-cards/find-a-credit-card/ to https://creditcards.wellsfargo.com/es/
+23:44:11	Warning: 	Link https://www.wellsfargo.com/exit/e?id=18103222 not scanned (follow robots meta tag)
+23:44:12	Warning: 	Link https://www.wellsfargo.com/mortgage/rates/purchase-assumptions?prod=1 not scanned (follow robots meta tag)
+23:44:12	Warning: 	Link https://www.wellsfargo.com/mortgage/rates/purchase-assumptions?prod=2 not scanned (follow robots meta tag)
+23:44:12	Warning: 	Link https://www.wellsfargo.com/mortgage/rates/purchase-assumptions?prod=3 not scanned (follow robots meta tag)
+23:44:12	Warning: 	Link https://www.wellsfargo.com/mortgage/rates/purchase-assumptions?prod=4 not scanned (follow robots meta tag)
+23:44:12	Warning: 	Link https://www.wellsfargo.com/mortgage/rates/purchase-assumptions?prod=5 not scanned (follow robots meta tag)
+23:44:12	Warning: 	Link https://www.wellsfargo.com/mortgage/rates/refinance-assumptions?prod=6 not scanned (follow robots meta tag)
+23:44:12	Warning: 	Link https://www.wellsfargo.com/mortgage/rates/refinance-assumptions?prod=7 not scanned (follow robots meta tag)
+23:44:12	Warning: 	Link https://www.wellsfargo.com/mortgage/rates/refinance-assumptions?prod=8 not scanned (follow robots meta tag)
+23:44:12	Warning: 	Link https://www.wellsfargo.com/mortgage/rates/refinance-assumptions?prod=9 not scanned (follow robots meta tag)
+23:44:13	Warning: 	Link https://www.wellsfargo.com/help/questions-concerns not scanned (follow robots meta tag)
+23:44:14	Warning: 	Link https://www.wellsfargo.com/exit/e?id=17146222 not scanned (follow robots meta tag)
+23:44:15	Warning: 	Link https://www.wellsfargo.com/exit/e?id=117228222 not scanned (follow robots meta tag)
+23:44:15	Error: 	Exit requested by shell or user
+23:44:15	Error: 	"" (-1) at link https://www.wellsfargo.com/exit/e?id=118647222 (from https://www.wellsfargo.com/investing/wellstrade-online-brokerage/?linkLoc=fn)
+23:44:15	Error: 	Exit requested by shell or user
+
+HTTrack Website Copier/3.49-2 mirror complete in 15 minutes 35 seconds : 2270 links scanned, 2219 files written (53044582 bytes overall) [27500949 bytes received at 29412 bytes/sec], 38610661 bytes transferred using HTTP compression in 1297 files, ratio 26%, 7.5 requests per connection
+(4 errors, 108 warnings, 0 messages)
+* * MIRROR ABORTED! * *
+The current temporary cache is required for any update operation and only contains data downloaded during the present aborted session.
+The former cache might contain more complete information; if you do not want to lose that information, you have to restore it and delete the current cache.
+This can easily be done here by erasing the hts-cache/new.* files]

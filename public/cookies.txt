@@ -1,0 +1,27 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.wellsfargo.com	TRUE	/locator	FALSE	1999999999	wcmcookieloc	47297D434F48B53667F6EAFA9888B47F
+www.wellsfargo.com	TRUE	/search	FALSE	1999999999	wcmcookiesrch	7637CE46B0C6CB6C2EAB4C4E5E6BAC01
+.wellsfargo.com	TRUE	/	FALSE	1999999999	wfacookie	11202201250828411214321712
+www.wellsfargo.com	TRUE	/	FALSE	1999999999	ISD_LOCATOR_COOKIE	!c0clGcx79EPlu0m1udsLMcXpxhS1QhMlHSDKtA+pyGopwAapweA/TbROBdk2s8Yx9NUewt9A2zMYUQU=
+connect.secure.wellsfargo.com	TRUE	/	FALSE	1999999999	ISD_AB_COOKIE	A
+wellsfargo.com	TRUE	/	FALSE	1999999999	WesdAksn	AyWTEZJ-AQAAvZRhETU3Qd3Kwde1thslnvQsvHqJ3BDsG1bf50c2gIovagUpAUJeb7cAAAAAAAAAAIo1AAAAAA|1|0|49baeb2368c1f2dea07890629977ca1cd8b669c8
+www.wellsfargo.com	TRUE	/	FALSE	1999999999	ISD_WCM_COOKIE	!4EHsepxetKxbYQy1udsLMcXpxhS1QgfY0lQ/fdUJHogUvwPWJT+vffBCUV06NlXK3l4ygX9NhKD/zq8=
+.wellsfargo.com	TRUE	/	FALSE	1999999999	BROWSER_SUPPORT_LEVEL	SUPPORTED
+www.wellsfargo.com	TRUE	/	FALSE	1999999999	wcmcookiehp	79115E377AF15281C738DC07A26E8364
+www.wellsfargo.com	TRUE	/	FALSE	1999999999	ISD_SEARCH_COOKIE	!axBOpswiemeekNm1udsLMcXpxhS1QqjecJwjoWPSBzhvjC8ByYyTjCtKdpEEDADT8WuyoSJF4rQU3v0=
+wellsfargoadvisors.com	TRUE	/	FALSE	1999999999	wfa-ps-1wfw-web-v-00_1wfw_prod_48706_infra_2	!A+6Brb7o8e9Umdzv/VJ1XHdKj+/3RnZ9/gIoPEaPWBzmvRIWQbTNVN7EvTfpNtgLyFjnPv4csvtaezg=
+www.wellsfargoadvisors.com	TRUE	/	FALSE	1999999999	TAFSessionId	tridion_a611858e-8d12-4485-a2d3-5ff8c9f55c47
+www.wellsfargoadvisors.com	TRUE	/	FALSE	1999999999	TS015071a5	01dab082951126cfc03988c443ec4a48a1f9bb47cb158a9719b5d2c2fadaccffaef777a810920e3f422aef83a884f8ddbb436bea57bd161fd6e8b3e79f116d73e025a0725813e7d98a553c7e0ff622130bde70227c
+wellsfargoadvisors.com	TRUE	/	FALSE	1999999999	TS015071a5	01dab08295d35244ac98c4ab378d8f5b8fca03e5775839cd3a21eed7234a7fa46e946d9adf92555f9ac66b018c66ddb337559b5e40
+.wellsfargo.com	TRUE	/	FALSE	1999999999	dm	DMROUTSP01
+www.wellsfargo.com	TRUE	/	FALSE	1999999999	ADRUM_BT2	R
+www.wellsfargo.com	TRUE	/	FALSE	1999999999	ISD_WWWAF_COOKIE	!3rUWRy0+EkrKHadshq3yIF9XU+J+kxucoCPh5nNPpe4GDgcByYUxAYuTB51N7VwARPYefuNrXqBGx+8=
+www.wellsfargo.com	TRUE	/	FALSE	1999999999	ADRUM_BTs	R:52|s:f
+.wellsfargo.com	TRUE	/	FALSE	1999999999	CookiesAreEnabled	yes
+www.wellsfargo.com	TRUE	/	FALSE	1999999999	ADRUM_BTa	R:67|g:3c2f339d-1a41-4b13-aff9-5850b59830c8|n:customer1_e2ac6dad-45c5-4fb1-ba3e-0fd665d694f7
+www.wellsfargo.com	TRUE	/	FALSE	1999999999	wcmcookiewf	E35B897E729DEFF44930F7891DA80864
+.wellsfargo.com	TRUE	/	FALSE	1999999999	INLANG	ES
+www.wellsfargo.com	TRUE	/	FALSE	1999999999	ADRUM_BT1	R:67|i:285864|e:1|d:2
+www.wellsfargo.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+
